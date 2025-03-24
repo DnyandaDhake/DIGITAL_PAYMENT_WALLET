@@ -1,0 +1,35 @@
+/* Transaction History container */
+.transaction-history-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  max-width: 350px;
+  margin: 50px auto;
+}
+
+.transaction-history-container h2 {
+  color: #007bff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.transaction-history-container ul {
+  list-style-type: none;
+  padding: 0;
+  width: 100%;
+}
+
+.transaction-history-container li {
+  margin: 10px 0;
+  padding: 12px;
+  background: #f9f9f9;
+  border: 2px solid #007bff;
+  border-radius: 15px;
+  font-size: 16px;
+  color: #333;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}

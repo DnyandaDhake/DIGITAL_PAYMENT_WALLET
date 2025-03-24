@@ -1,0 +1,77 @@
+.create-online-account {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .create-online-account h2 {
+    color: #007bff;
+    margin-bottom: 20px;
+  }
+  
+  .create-online-account form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 400px;
+  }
+  
+  .create-online-account label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  .create-online-account input,
+  .create-online-account textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .create-online-account textarea {
+    resize: vertical;
+    height: 100px;
+  }
+  
+  .create-online-account button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .create-online-account button:hover {
+    background-color: #0056b3;
+  }
+  
+  .account-created {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 400px;
+  }
+  
+  .account-created h3 {
+    color: #28a745;
+    margin-bottom: 15px;
+  }
+  
+  .account-created p {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .account-created strong {
+    color: #007bff;
+  }

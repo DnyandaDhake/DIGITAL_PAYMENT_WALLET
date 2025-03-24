@@ -1,0 +1,29 @@
+.qr-scanner-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .qr-scanner-container h2 {
+    color: #007bff;
+    margin-bottom: 20px;
+  }
+  
+  .error-message {
+    color: #dc3545;
+    margin: 20px 0;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
